@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "Choclatechip",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/saltedchoc_360x.jpg?v=1587022457",
+    "price": "70"
+  },
+  {
+    "id": "2",
+    "name": "Almond Brittle Fudge",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/almondbrittlefudge2_360x.jpg?v=1586251191",
+    "price": "80"
+  },
+  {
+    "id": "3",
+    "name": " Pandan Gula Melaka",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/pandan_1024x1024@2x.jpg?v=1587289294",
+    "price": "75"
+  },
+  {
+    "id": "4",
+    "name": "Blue Planet",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/blueplanet_360x.jpg?v=1587290501",
+    "price": "85"
+  },
+  {
+    "id": "5",
+    "name": "Salted Caramel Macadamia",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/002_1024x1024@2x.jpg?v=1589605546",
+    "price": "90"
+  },
+  {
+    "id": "6",
+    "name": "Pink Guava & Lychee",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/guavalychee_1024x1024@2x.jpg?v=1586251294",
+    "price": "100"
+  },
+  {
+    "id": "7",
+    "name": "Charcoal Vanilla",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/charcoal_1024x1024@2x.jpg?v=1587024005",
+    "price": "85"
+  },
+  {
+    "id": "8",
+    "name": "Kampung Snickers",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/KampungSnickersImage_360x.jpg?v=1586932359",
+    "price": "110"
+  },
+  {
+    "id": "9",
+    "name": "Chocolate Sorbet",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/chocsorbet_360x.jpg?v=1587289774",
+    "price": "120"
+  },
+  {
+    "id": "10",
+    "name": "Durian",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/Kind_Kones_2710201903260_web_360x.jpg?v=1586934137",
+    "price": "100"
+  },
+  {
+    "id": "11",
+    "name": "Watermelon Strawberry Min",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/watermelonstrawberryint_1024x1024@2x.jpg?v=1587019019",
+    "price": "125"
+  },
+  {
+    "id": "12",
+    "name": "Mocha Almond",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/mochaalmond_1024x1024@2x.jpg?v=1587287838",
+    "price": "180"
+  },
+  {
+    "id": "13",
+    "name": "Peanut Buttercup",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/peanutbuttercup_1024x1024@2x.jpg?v=1586935528",
+    "price": "170"
+  },
+  {
+    "id": "14",
+    "name": "Black Forest",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/blackforest_1024x1024@2x.jpg?v=1586934018",
+    "price": "160"
+  },
+  {
+    "id": "15",
+    "name": "French Vanilla Bean",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/IMG_9878_1024x1024@2x.jpg?v=1587874333",
+    "price": "200"
+  },
+  {
+    "id": "16",
+    "name": "Passionfruit Sorbet",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/passionfruit_1024x1024@2x.jpg?v=1587288205",
+    "price": "170"
+  },
+  {
+    "id": "17",
+    "name": "Roasted Pear Almond Tart",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/pear_icecream_1024x1024@2x.jpg?v=1587291904",
+    "price": "250"
+  },
+  {
+    "id": "18",
+    "name": "Peanut Butter & Raspberry Jam",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/peanut-butter-ice-cream-1-819x1024new_1024x1024@2x.jpg?v=1589348589",
+    "price": "180"
+  },
+  {
+    "id": "19",
+    "name": "Strawberry",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/strawberry_1024x1024@2x.jpg?v=1587289844",
+    "price": "240"
+  },
+  {
+    "id": "20",
+    "name": "Keto Chocolate Sorbet",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/chocolatesorbet_1024x1024@2x.jpg?v=1587288592",
+    "price": "290"
+  },
+  {
+    "id": "21",
+    "name": "Matcha Coconut",
+    "image": "https://cdn.shopify.com/s/files/1/0375/0867/7769/products/matchacoconut-3_360x.jpg?v=1589349268",
+    "price": "250"
+  }
+]
